@@ -1,5 +1,5 @@
 import math
-from config import GITHUB_REPO, SUPPORT_CHANNEL, SUPPORT_GROUP, OWNER_USERNAME
+from config import SUPPORT_CHANNEL, SUPPORT_GROUP, OWNER_USERNAME
 from AnieMusic import app
 from pyrogram.types import InlineKeyboardButton
 
