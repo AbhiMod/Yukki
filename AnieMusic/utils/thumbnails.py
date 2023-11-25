@@ -161,10 +161,10 @@ async def get_thumb(videoid):
         )
         draw.text(
             (600, 600),
-            f"Added By : AMBOT",
+            f"Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ : AMBOT",
             fill="white",
             stroke_width=1,
-            stroke_fill="green",
+            stroke_fill="white",
             font=font,
         )
         try:
